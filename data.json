@@ -1,0 +1,3002 @@
+{"students":[
+{
+	"id": 1,
+	"fname": "Vehbi̇",
+	"lname": "Paksoy",
+	"num": "152120172614",
+	"dept": "4",
+	"pob": "Mus",
+	"dob": "1997-03-15"
+},
+
+{
+	"id": 2,
+	"fname": "Atilgan",
+	"lname": "Kilinç",
+	"num": "152120170765",
+	"dept": "4",
+	"pob": "Hatay",
+	"dob": "1998-12-23"
+},
+
+{
+	"id": 3,
+	"fname": "Aslihan",
+	"lname": "Akkan",
+	"num": "152120171098",
+	"dept": "1",
+	"pob": "Elazığ",
+	"dob": "1997-07-29"
+},
+
+{
+	"id": 4,
+	"fname": "Kader",
+	"lname": "Ayman",
+	"num": "152120171082",
+	"dept": "4",
+	"pob": "Hakkari",
+	"dob": "1997-12-28"
+},
+
+{
+	"id": 5,
+	"fname": "Mehmet Selahatti̇n",
+	"lname": "Kurt",
+	"num": "152120172446",
+	"dept": "3",
+	"pob": "Bilecik",
+	"dob": "1999-04-17"
+},
+
+{
+	"id": 6,
+	"fname": "Pinar",
+	"lname": "Özek",
+	"num": "152120178528",
+	"dept": "1",
+	"pob": "Kocaeli",
+	"dob": "1999-08-04"
+},
+
+{
+	"id": 7,
+	"fname": "Mustafa",
+	"lname": "Örenç",
+	"num": "152120172849",
+	"dept": "3",
+	"pob": "Edirne",
+	"dob": "1999-09-24"
+},
+
+{
+	"id": 8,
+	"fname": "Emi̇ne",
+	"lname": "Berekatoğlu",
+	"num": "152120177503",
+	"dept": "2",
+	"pob": "Muğla",
+	"dob": "2000-06-11"
+},
+
+{
+	"id": 9,
+	"fname": "Veli̇ Çağlar",
+	"lname": "Erdem",
+	"num": "152120179059",
+	"dept": "3",
+	"pob": "Ağrı",
+	"dob": "2000-04-06"
+},
+
+{
+	"id": 10,
+	"fname": "Selahatti̇n",
+	"lname": "Akşahi̇n",
+	"num": "152120177765",
+	"dept": "1",
+	"pob": "Bolu",
+	"dob": "1997-08-15"
+},
+
+{
+	"id": 11,
+	"fname": "Kasim",
+	"lname": "Emeli̇",
+	"num": "152120173038",
+	"dept": "4",
+	"pob": "Tekirdağ",
+	"dob": "1999-05-11"
+},
+
+{
+	"id": 12,
+	"fname": "Nazli",
+	"lname": "Bekar",
+	"num": "152120179821",
+	"dept": "4",
+	"pob": "Eskisehir",
+	"dob": "2001-06-02"
+},
+
+{
+	"id": 13,
+	"fname": "Emi̇r Murat",
+	"lname": "Demi̇r",
+	"num": "152120176469",
+	"dept": "2",
+	"pob": "Van",
+	"dob": "1999-07-23"
+},
+
+{
+	"id": 14,
+	"fname": "Hi̇lal",
+	"lname": "Olgen",
+	"num": "152120179580",
+	"dept": "3",
+	"pob": "Kırsehir",
+	"dob": "2001-07-17"
+},
+
+{
+	"id": 15,
+	"fname": "Suat",
+	"lname": "Merhametsi̇z",
+	"num": "152120171060",
+	"dept": "3",
+	"pob": "Denizli",
+	"dob": "1999-10-15"
+},
+
+{
+	"id": 16,
+	"fname": "Onur",
+	"lname": "Demi̇rtaş",
+	"num": "152120171265",
+	"dept": "4",
+	"pob": "Aksaray",
+	"dob": "2001-12-09"
+},
+
+{
+	"id": 17,
+	"fname": "Muhammed Riza",
+	"lname": "Aydos",
+	"num": "152120179822",
+	"dept": "3",
+	"pob": "Gaziantep",
+	"dob": "1997-11-29"
+},
+
+{
+	"id": 18,
+	"fname": "Mehmet",
+	"lname": "Yaşi̇t",
+	"num": "152120172774",
+	"dept": "2",
+	"pob": "Edirne",
+	"dob": "2000-04-22"
+},
+
+{
+	"id": 19,
+	"fname": "Muhammed Furkan",
+	"lname": "Çi̇ftci̇",
+	"num": "152120174364",
+	"dept": "2",
+	"pob": "Ordu",
+	"dob": "2000-05-24"
+},
+
+{
+	"id": 20,
+	"fname": "Sultan",
+	"lname": "Akpinar",
+	"num": "152120173970",
+	"dept": "2",
+	"pob": "Zonguldak",
+	"dob": "2001-11-06"
+},
+
+{
+	"id": 21,
+	"fname": "Özge",
+	"lname": "Seyrek",
+	"num": "152120176289",
+	"dept": "2",
+	"pob": "Karabük",
+	"dob": "1997-09-10"
+},
+
+{
+	"id": 22,
+	"fname": "Keri̇m",
+	"lname": "Sarikaya",
+	"num": "152120170728",
+	"dept": "2",
+	"pob": "Malatya",
+	"dob": "2000-06-09"
+},
+
+{
+	"id": 23,
+	"fname": "Yusuf",
+	"lname": "Özçeli̇k",
+	"num": "152120172664",
+	"dept": "4",
+	"pob": "Rize",
+	"dob": "1997-06-03"
+},
+
+{
+	"id": 24,
+	"fname": "Hüseyi̇n Onur",
+	"lname": "Koç",
+	"num": "152120172674",
+	"dept": "3",
+	"pob": "Giresun",
+	"dob": "2001-11-13"
+},
+
+{
+	"id": 25,
+	"fname": "Ezel",
+	"lname": "Şahi̇n",
+	"num": "152120177789",
+	"dept": "1",
+	"pob": "Adana",
+	"dob": "1999-08-06"
+},
+
+{
+	"id": 26,
+	"fname": "Emi̇ne",
+	"lname": "Güler",
+	"num": "152120173612",
+	"dept": "4",
+	"pob": "Düzce",
+	"dob": "1998-10-18"
+},
+
+{
+	"id": 27,
+	"fname": "Gülsüm",
+	"lname": "Teki̇n",
+	"num": "152120172714",
+	"dept": "1",
+	"pob": "Sırnak",
+	"dob": "1998-11-17"
+},
+
+{
+	"id": 28,
+	"fname": "Işil",
+	"lname": "Kanat",
+	"num": "152120175399",
+	"dept": "4",
+	"pob": "Niğde",
+	"dob": "1998-10-07"
+},
+
+{
+	"id": 29,
+	"fname": "Serkan",
+	"lname": "Yildiz",
+	"num": "152120176870",
+	"dept": "2",
+	"pob": "Balıkesir",
+	"dob": "2001-05-02"
+},
+
+{
+	"id": 30,
+	"fname": "Hasan",
+	"lname": "Keri̇moğlu",
+	"num": "152120178232",
+	"dept": "2",
+	"pob": "Ordu",
+	"dob": "1998-01-14"
+},
+
+{
+	"id": 31,
+	"fname": "Abdülkadi̇r",
+	"lname": "Kayman Köse",
+	"num": "152120178252",
+	"dept": "1",
+	"pob": "Sırnak",
+	"dob": "1998-09-21"
+},
+
+{
+	"id": 32,
+	"fname": "Mustafa Ari̇f",
+	"lname": "Eki̇ci̇",
+	"num": "152120174669",
+	"dept": "2",
+	"pob": "Kırklareli",
+	"dob": "1997-06-29"
+},
+
+{
+	"id": 33,
+	"fname": "Şeyda",
+	"lname": "Ozan",
+	"num": "152120179565",
+	"dept": "3",
+	"pob": "Erzincan",
+	"dob": "2001-01-25"
+},
+
+{
+	"id": 34,
+	"fname": "Serdar",
+	"lname": "Akyol",
+	"num": "152120179999",
+	"dept": "2",
+	"pob": "Bilecik",
+	"dob": "1998-02-20"
+},
+
+{
+	"id": 35,
+	"fname": "Melahat",
+	"lname": "Kindir",
+	"num": "152120177042",
+	"dept": "4",
+	"pob": "İzmir",
+	"dob": "1999-04-29"
+},
+
+{
+	"id": 36,
+	"fname": "Murat",
+	"lname": "Demi̇rel",
+	"num": "152120177933",
+	"dept": "2",
+	"pob": "Kahramanmaras",
+	"dob": "1998-03-06"
+},
+
+{
+	"id": 37,
+	"fname": "Mustafa",
+	"lname": "Geyi̇k",
+	"num": "152120174321",
+	"dept": "4",
+	"pob": "Ardahan",
+	"dob": "2001-01-13"
+},
+
+{
+	"id": 38,
+	"fname": "Baran",
+	"lname": "Kaya",
+	"num": "152120178574",
+	"dept": "4",
+	"pob": "İstanbul",
+	"dob": "1999-09-21"
+},
+
+{
+	"id": 39,
+	"fname": "Tuğba",
+	"lname": "Saçli",
+	"num": "152120170342",
+	"dept": "2",
+	"pob": "Zonguldak",
+	"dob": "1999-11-25"
+},
+
+{
+	"id": 40,
+	"fname": "Ahmet",
+	"lname": "Gürakan",
+	"num": "152120174431",
+	"dept": "4",
+	"pob": "Sanlıurfa",
+	"dob": "1998-01-11"
+},
+
+{
+	"id": 41,
+	"fname": "Eli̇f",
+	"lname": "Bi̇lgi̇ç",
+	"num": "152120171962",
+	"dept": "1",
+	"pob": "Çankırı",
+	"dob": "2000-08-03"
+},
+
+{
+	"id": 42,
+	"fname": "Kasim",
+	"lname": "Kanyilmaz",
+	"num": "152120175936",
+	"dept": "2",
+	"pob": "Eskisehir",
+	"dob": "1998-09-02"
+},
+
+{
+	"id": 43,
+	"fname": "Tolgahan",
+	"lname": "Özen",
+	"num": "152120170648",
+	"dept": "1",
+	"pob": "Çorum",
+	"dob": "1999-01-17"
+},
+
+{
+	"id": 44,
+	"fname": "Nurullah",
+	"lname": "Yalçin",
+	"num": "152120178692",
+	"dept": "1",
+	"pob": "Bilecik",
+	"dob": "2000-09-29"
+},
+
+{
+	"id": 45,
+	"fname": "Ahmetcan",
+	"lname": "Yilmaz",
+	"num": "152120171589",
+	"dept": "1",
+	"pob": "Manisa",
+	"dob": "1999-06-04"
+},
+
+{
+	"id": 46,
+	"fname": "Zari̇fe",
+	"lname": "Kaya",
+	"num": "152120172331",
+	"dept": "4",
+	"pob": "Sakarya",
+	"dob": "2000-05-03"
+},
+
+{
+	"id": 47,
+	"fname": "Mehmet",
+	"lname": "Murt",
+	"num": "152120173982",
+	"dept": "4",
+	"pob": "Usak",
+	"dob": "2000-05-12"
+},
+
+{
+	"id": 48,
+	"fname": "Cüneyt",
+	"lname": "Ürün",
+	"num": "152120177305",
+	"dept": "1",
+	"pob": "Ağrı",
+	"dob": "1999-11-16"
+},
+
+{
+	"id": 49,
+	"fname": "Zübeyde",
+	"lname": "Nurlu",
+	"num": "152120179559",
+	"dept": "3",
+	"pob": "Van",
+	"dob": "1999-08-11"
+},
+
+{
+	"id": 50,
+	"fname": "İbrahi̇m",
+	"lname": "Sariçi̇çek",
+	"num": "152120170893",
+	"dept": "1",
+	"pob": "Erzurum",
+	"dob": "1997-09-06"
+},
+
+{
+	"id": 51,
+	"fname": "Bi̇rsen",
+	"lname": "Demi̇r",
+	"num": "152120179039",
+	"dept": "3",
+	"pob": "Tunceli",
+	"dob": "1998-10-01"
+},
+
+{
+	"id": 52,
+	"fname": "Eli̇f",
+	"lname": "Al",
+	"num": "152120175790",
+	"dept": "2",
+	"pob": "Kars",
+	"dob": "2001-08-27"
+},
+
+{
+	"id": 53,
+	"fname": "Özge",
+	"lname": "Karagöz",
+	"num": "152120174409",
+	"dept": "4",
+	"pob": "Muğla",
+	"dob": "2000-04-21"
+},
+
+{
+	"id": 54,
+	"fname": "Cansu",
+	"lname": "Sarayli",
+	"num": "152120175143",
+	"dept": "4",
+	"pob": "Iğdır",
+	"dob": "2001-11-01"
+},
+
+{
+	"id": 55,
+	"fname": "Tarkan",
+	"lname": "Kara",
+	"num": "152120174489",
+	"dept": "3",
+	"pob": "Çanakkale",
+	"dob": "2000-05-29"
+},
+
+{
+	"id": 56,
+	"fname": "Kübra",
+	"lname": "Öztürk",
+	"num": "152120171384",
+	"dept": "3",
+	"pob": "Tekirdağ",
+	"dob": "1999-05-15"
+},
+
+{
+	"id": 57,
+	"fname": "Erki̇n",
+	"lname": "Güven",
+	"num": "152120175123",
+	"dept": "4",
+	"pob": "Eskisehir",
+	"dob": "1999-06-27"
+},
+
+{
+	"id": 58,
+	"fname": "Songül",
+	"lname": "Deği̇rmenci̇",
+	"num": "152120175463",
+	"dept": "2",
+	"pob": "Artvin",
+	"dob": "2001-03-23"
+},
+
+{
+	"id": 59,
+	"fname": "Fati̇h",
+	"lname": "Kirhan",
+	"num": "152120172652",
+	"dept": "2",
+	"pob": "Sırnak",
+	"dob": "1998-12-21"
+},
+
+{
+	"id": 60,
+	"fname": "Sevgül",
+	"lname": "Şatir Ertem",
+	"num": "152120178055",
+	"dept": "3",
+	"pob": "Ankara",
+	"dob": "2000-06-10"
+},
+
+{
+	"id": 61,
+	"fname": "Ahmet",
+	"lname": "Sevük",
+	"num": "152120172745",
+	"dept": "1",
+	"pob": "Nevsehir",
+	"dob": "1999-11-06"
+},
+
+{
+	"id": 62,
+	"fname": "Ali̇",
+	"lname": "Uğuz",
+	"num": "152120171866",
+	"dept": "1",
+	"pob": "Artvin",
+	"dob": "1999-07-16"
+},
+
+{
+	"id": 63,
+	"fname": "Sezgi̇n",
+	"lname": "Özdemi̇r",
+	"num": "152120177618",
+	"dept": "2",
+	"pob": "Artvin",
+	"dob": "1998-05-26"
+},
+
+{
+	"id": 64,
+	"fname": "Burcu",
+	"lname": "Öztaş",
+	"num": "152120173604",
+	"dept": "2",
+	"pob": "Bitlis",
+	"dob": "1997-12-21"
+},
+
+{
+	"id": 65,
+	"fname": "Ebru",
+	"lname": "Karaca",
+	"num": "152120178632",
+	"dept": "3",
+	"pob": "İzmir",
+	"dob": "2000-09-09"
+},
+
+{
+	"id": 66,
+	"fname": "Sedat",
+	"lname": "Kadak",
+	"num": "152120178945",
+	"dept": "2",
+	"pob": "Ordu",
+	"dob": "2001-01-23"
+},
+
+{
+	"id": 67,
+	"fname": "Ömer",
+	"lname": "Güvenç",
+	"num": "152120173029",
+	"dept": "3",
+	"pob": "Edirne",
+	"dob": "1998-02-08"
+},
+
+{
+	"id": 68,
+	"fname": "Zekeri̇ya Ersi̇n",
+	"lname": "Turan",
+	"num": "152120170621",
+	"dept": "1",
+	"pob": "Karaman",
+	"dob": "2000-09-12"
+},
+
+{
+	"id": 69,
+	"fname": "Eray",
+	"lname": "Taşkiran",
+	"num": "152120174126",
+	"dept": "4",
+	"pob": "Bilecik",
+	"dob": "1999-04-12"
+},
+
+{
+	"id": 70,
+	"fname": "Emre",
+	"lname": "Eroğlu",
+	"num": "152120178208",
+	"dept": "2",
+	"pob": "Adana",
+	"dob": "1998-07-20"
+},
+
+{
+	"id": 71,
+	"fname": "Başak",
+	"lname": "Kesgi̇n",
+	"num": "152120176629",
+	"dept": "1",
+	"pob": "Elazığ",
+	"dob": "2000-06-09"
+},
+
+{
+	"id": 72,
+	"fname": "Çeti̇n",
+	"lname": "Afşar",
+	"num": "152120173403",
+	"dept": "4",
+	"pob": "Bartın",
+	"dob": "1998-05-09"
+},
+
+{
+	"id": 73,
+	"fname": "Muammer",
+	"lname": "Akyol",
+	"num": "152120176839",
+	"dept": "1",
+	"pob": "Hatay",
+	"dob": "2001-05-30"
+},
+
+{
+	"id": 74,
+	"fname": "Hale",
+	"lname": "Güleç",
+	"num": "152120176559",
+	"dept": "4",
+	"pob": "Karaman",
+	"dob": "1998-03-11"
+},
+
+{
+	"id": 75,
+	"fname": "Serpi̇l",
+	"lname": "Yilmaz",
+	"num": "152120179716",
+	"dept": "1",
+	"pob": "Karabük",
+	"dob": "1999-06-07"
+},
+
+{
+	"id": 76,
+	"fname": "Yusuf Kenan",
+	"lname": "Ateş",
+	"num": "152120175888",
+	"dept": "1",
+	"pob": "Karabük",
+	"dob": "1997-08-22"
+},
+
+{
+	"id": 77,
+	"fname": "Mustafa",
+	"lname": "Demi̇rgan",
+	"num": "152120173810",
+	"dept": "4",
+	"pob": "Sinop",
+	"dob": "1997-01-22"
+},
+
+{
+	"id": 78,
+	"fname": "Zühal",
+	"lname": "Hidiroğlu",
+	"num": "152120170452",
+	"dept": "2",
+	"pob": "Yalova",
+	"dob": "1997-05-18"
+},
+
+{
+	"id": 79,
+	"fname": "Şükrü",
+	"lname": "Dağdelen",
+	"num": "152120171049",
+	"dept": "2",
+	"pob": "Aksaray",
+	"dob": "1998-05-21"
+},
+
+{
+	"id": 80,
+	"fname": "Gül",
+	"lname": "Ki̇şi̇",
+	"num": "152120178369",
+	"dept": "3",
+	"pob": "Aydın",
+	"dob": "2001-12-10"
+},
+
+{
+	"id": 81,
+	"fname": "Melda",
+	"lname": "Sağ",
+	"num": "152120170256",
+	"dept": "2",
+	"pob": "Nevsehir",
+	"dob": "1999-06-01"
+},
+
+{
+	"id": 82,
+	"fname": "Fatma Betül",
+	"lname": "Akay",
+	"num": "152120175068",
+	"dept": "1",
+	"pob": "Usak",
+	"dob": "1999-01-02"
+},
+
+{
+	"id": 83,
+	"fname": "Ezel",
+	"lname": "Nacaroğlu",
+	"num": "152120173099",
+	"dept": "3",
+	"pob": "Antalya",
+	"dob": "2000-11-16"
+},
+
+{
+	"id": 84,
+	"fname": "Volkan",
+	"lname": "Kadi",
+	"num": "152120177197",
+	"dept": "1",
+	"pob": "Artvin",
+	"dob": "1997-07-10"
+},
+
+{
+	"id": 85,
+	"fname": "Selma",
+	"lname": "Ünüvar",
+	"num": "152120175092",
+	"dept": "2",
+	"pob": "Isparta",
+	"dob": "2001-10-16"
+},
+
+{
+	"id": 86,
+	"fname": "Volkan Onur",
+	"lname": "Işik",
+	"num": "152120173720",
+	"dept": "1",
+	"pob": "Tunceli",
+	"dob": "1998-02-23"
+},
+
+{
+	"id": 87,
+	"fname": "Burcu",
+	"lname": "Kaya",
+	"num": "152120177707",
+	"dept": "2",
+	"pob": "Ardahan",
+	"dob": "2001-08-13"
+},
+
+{
+	"id": 88,
+	"fname": "Gülay",
+	"lname": "Başkan",
+	"num": "152120173640",
+	"dept": "3",
+	"pob": "Kocaeli",
+	"dob": "1997-05-29"
+},
+
+{
+	"id": 89,
+	"fname": "Koray",
+	"lname": "İnce",
+	"num": "152120174851",
+	"dept": "3",
+	"pob": "Kırıkkale",
+	"dob": "2000-11-20"
+},
+
+{
+	"id": 90,
+	"fname": "Serpi̇l",
+	"lname": "Çeti̇nkaya",
+	"num": "152120172970",
+	"dept": "3",
+	"pob": "Eskisehir",
+	"dob": "2001-03-11"
+},
+
+{
+	"id": 91,
+	"fname": "Yasemi̇n",
+	"lname": "Sevi̇mli̇",
+	"num": "152120172209",
+	"dept": "3",
+	"pob": "Osmaniye",
+	"dob": "2000-09-29"
+},
+
+{
+	"id": 92,
+	"fname": "Elçi̇n",
+	"lname": "Altunyaprak",
+	"num": "152120177895",
+	"dept": "2",
+	"pob": "Gümüshane",
+	"dob": "1999-07-02"
+},
+
+{
+	"id": 93,
+	"fname": "Gökmen",
+	"lname": "Ari̇foğlu",
+	"num": "152120177053",
+	"dept": "1",
+	"pob": "Bilecik",
+	"dob": "2000-03-04"
+},
+
+{
+	"id": 94,
+	"fname": "Esra",
+	"lname": "Karadurak",
+	"num": "152120172385",
+	"dept": "1",
+	"pob": "Bilecik",
+	"dob": "1999-10-29"
+},
+
+{
+	"id": 95,
+	"fname": "Gökhan",
+	"lname": "Budunoğlu",
+	"num": "152120179107",
+	"dept": "2",
+	"pob": "Kırklareli",
+	"dob": "1997-05-19"
+},
+
+{
+	"id": 96,
+	"fname": "Mehmet Ali̇",
+	"lname": "Arikboğa",
+	"num": "152120177566",
+	"dept": "3",
+	"pob": "Ordu",
+	"dob": "1999-03-17"
+},
+
+{
+	"id": 97,
+	"fname": "Merve",
+	"lname": "Yaci",
+	"num": "152120178890",
+	"dept": "2",
+	"pob": "Mersin",
+	"dob": "1998-12-11"
+},
+
+{
+	"id": 98,
+	"fname": "Elçi̇n",
+	"lname": "Akpinar",
+	"num": "152120176333",
+	"dept": "3",
+	"pob": "Ordu",
+	"dob": "1997-08-02"
+},
+
+{
+	"id": 99,
+	"fname": "Beri̇l Gülüş",
+	"lname": "Soluk",
+	"num": "152120172294",
+	"dept": "2",
+	"pob": "Kırsehir",
+	"dob": "1998-12-22"
+},
+
+{
+	"id": 100,
+	"fname": "Ali̇ Riza",
+	"lname": "İnselöz",
+	"num": "152120177022",
+	"dept": "3",
+	"pob": "Batman",
+	"dob": "1997-08-13"
+},
+
+{
+	"id": 101,
+	"fname": "Erkan",
+	"lname": "Çeti̇n",
+	"num": "152120179970",
+	"dept": "1",
+	"pob": "Mus",
+	"dob": "1998-09-17"
+},
+
+{
+	"id": 102,
+	"fname": "Melek",
+	"lname": "Pehli̇van",
+	"num": "152120172425",
+	"dept": "4",
+	"pob": "Usak",
+	"dob": "1997-06-19"
+},
+
+{
+	"id": 103,
+	"fname": "Müberra",
+	"lname": "Aldi̇nç",
+	"num": "152120179818",
+	"dept": "3",
+	"pob": "Siirt",
+	"dob": "1999-08-30"
+},
+
+{
+	"id": 104,
+	"fname": "Levent",
+	"lname": "Bayram",
+	"num": "152120177663",
+	"dept": "4",
+	"pob": "Kocaeli",
+	"dob": "1998-12-23"
+},
+
+{
+	"id": 105,
+	"fname": "Mustafa",
+	"lname": "Kayaalp",
+	"num": "152120171974",
+	"dept": "2",
+	"pob": "İstanbul",
+	"dob": "1998-01-19"
+},
+
+{
+	"id": 106,
+	"fname": "Serap",
+	"lname": "Gördük",
+	"num": "152120176191",
+	"dept": "2",
+	"pob": "Denizli",
+	"dob": "1997-09-18"
+},
+
+{
+	"id": 107,
+	"fname": "İbrahi̇m",
+	"lname": "Teği̇n",
+	"num": "152120179518",
+	"dept": "4",
+	"pob": "Bingöl",
+	"dob": "1997-07-26"
+},
+
+{
+	"id": 108,
+	"fname": "Gamze",
+	"lname": "Bereket",
+	"num": "152120176967",
+	"dept": "2",
+	"pob": "Bolu",
+	"dob": "2001-10-21"
+},
+
+{
+	"id": 109,
+	"fname": "Veysi̇",
+	"lname": "Kiliç",
+	"num": "152120174614",
+	"dept": "4",
+	"pob": "Hakkari",
+	"dob": "2000-11-20"
+},
+
+{
+	"id": 110,
+	"fname": "Ebru",
+	"lname": "Di̇koğlu",
+	"num": "152120171901",
+	"dept": "4",
+	"pob": "Giresun",
+	"dob": "1998-05-14"
+},
+
+{
+	"id": 111,
+	"fname": "Zeli̇ha",
+	"lname": "Aslan",
+	"num": "152120171378",
+	"dept": "4",
+	"pob": "Çanakkale",
+	"dob": "1997-11-24"
+},
+
+{
+	"id": 112,
+	"fname": "Saadet",
+	"lname": "İşgören",
+	"num": "152120174596",
+	"dept": "4",
+	"pob": "Kocaeli",
+	"dob": "2001-03-30"
+},
+
+{
+	"id": 113,
+	"fname": "Enes",
+	"lname": "İlker",
+	"num": "152120173464",
+	"dept": "4",
+	"pob": "Kastamonu",
+	"dob": "2000-08-17"
+},
+
+{
+	"id": 114,
+	"fname": "Gökhan",
+	"lname": "Yilmaz",
+	"num": "152120170274",
+	"dept": "4",
+	"pob": "Bursa",
+	"dob": "2000-11-14"
+},
+
+{
+	"id": 115,
+	"fname": "Mehmet İkbal",
+	"lname": "Yegi̇n",
+	"num": "152120179684",
+	"dept": "2",
+	"pob": "Sinop",
+	"dob": "1997-11-22"
+},
+
+{
+	"id": 116,
+	"fname": "Özlem",
+	"lname": "Büyük",
+	"num": "152120171645",
+	"dept": "2",
+	"pob": "Ordu",
+	"dob": "1998-03-12"
+},
+
+{
+	"id": 117,
+	"fname": "Seyfi̇",
+	"lname": "Kisa",
+	"num": "152120176073",
+	"dept": "4",
+	"pob": "Ordu",
+	"dob": "2000-10-12"
+},
+
+{
+	"id": 118,
+	"fname": "Süheyla",
+	"lname": "Baştürk Ayhan",
+	"num": "152120172062",
+	"dept": "4",
+	"pob": "Adıyaman",
+	"dob": "2000-03-01"
+},
+
+{
+	"id": 119,
+	"fname": "Ayşe Gül",
+	"lname": "Akdeni̇z",
+	"num": "152120170691",
+	"dept": "2",
+	"pob": "Burdur",
+	"dob": "2001-08-08"
+},
+
+{
+	"id": 120,
+	"fname": "Zeynep",
+	"lname": "Özdoğan Kavzoğlu",
+	"num": "152120175802",
+	"dept": "3",
+	"pob": "Sanlıurfa",
+	"dob": "1997-07-30"
+},
+
+{
+	"id": 121,
+	"fname": "Fati̇h",
+	"lname": "Polat Çi̇çek",
+	"num": "152120178340",
+	"dept": "2",
+	"pob": "Kastamonu",
+	"dob": "1998-06-18"
+},
+
+{
+	"id": 122,
+	"fname": "Funda",
+	"lname": "Dayangaç",
+	"num": "152120178497",
+	"dept": "2",
+	"pob": "Edirne",
+	"dob": "1999-03-16"
+},
+
+{
+	"id": 123,
+	"fname": "Hasan",
+	"lname": "Arikboğa",
+	"num": "152120174349",
+	"dept": "2",
+	"pob": "Tunceli",
+	"dob": "1998-06-08"
+},
+
+{
+	"id": 124,
+	"fname": "Mehmet",
+	"lname": "Demi̇rel",
+	"num": "152120177517",
+	"dept": "2",
+	"pob": "Hatay",
+	"dob": "1999-09-27"
+},
+
+{
+	"id": 125,
+	"fname": "Serkan",
+	"lname": "Akbaş",
+	"num": "152120173207",
+	"dept": "3",
+	"pob": "Eskisehir",
+	"dob": "1999-11-24"
+},
+
+{
+	"id": 126,
+	"fname": "Mehmet Koray",
+	"lname": "Çi̇çek",
+	"num": "152120170116",
+	"dept": "1",
+	"pob": "Zonguldak",
+	"dob": "1999-04-05"
+},
+
+{
+	"id": 127,
+	"fname": "Gökhan",
+	"lname": "Cansever",
+	"num": "152120176686",
+	"dept": "2",
+	"pob": "Osmaniye",
+	"dob": "1999-04-18"
+},
+
+{
+	"id": 128,
+	"fname": "Zeynalabi̇di̇n",
+	"lname": "Yilmaz",
+	"num": "152120173531",
+	"dept": "1",
+	"pob": "Burdur",
+	"dob": "2001-08-13"
+},
+
+{
+	"id": 129,
+	"fname": "Hamza",
+	"lname": "Yağli",
+	"num": "152120170307",
+	"dept": "2",
+	"pob": "Adıyaman",
+	"dob": "2001-01-27"
+},
+
+{
+	"id": 130,
+	"fname": "Di̇lber",
+	"lname": "Yalçin",
+	"num": "152120172794",
+	"dept": "3",
+	"pob": "Muğla",
+	"dob": "1999-04-03"
+},
+
+{
+	"id": 131,
+	"fname": "Meri̇ç",
+	"lname": "Suluova",
+	"num": "152120173409",
+	"dept": "1",
+	"pob": "Karaman",
+	"dob": "1999-11-03"
+},
+
+{
+	"id": 132,
+	"fname": "Fati̇h",
+	"lname": "Doğan",
+	"num": "152120177833",
+	"dept": "3",
+	"pob": "Malatya",
+	"dob": "2001-12-17"
+},
+
+{
+	"id": 133,
+	"fname": "Sali̇ha Di̇lek",
+	"lname": "Candan",
+	"num": "152120173724",
+	"dept": "3",
+	"pob": "Rize",
+	"dob": "1997-11-29"
+},
+
+{
+	"id": 134,
+	"fname": "Özgür",
+	"lname": "Kandemi̇r",
+	"num": "152120170203",
+	"dept": "2",
+	"pob": "Düzce",
+	"dob": "1997-01-20"
+},
+
+{
+	"id": 135,
+	"fname": "Bi̇lal Bariş",
+	"lname": "Müezzi̇noğlu",
+	"num": "152120178634",
+	"dept": "4",
+	"pob": "Bitlis",
+	"dob": "1997-06-16"
+},
+
+{
+	"id": 136,
+	"fname": "Ayşe",
+	"lname": "Çobanoğlu",
+	"num": "152120179770",
+	"dept": "2",
+	"pob": "Kilis",
+	"dob": "2000-04-02"
+},
+
+{
+	"id": 137,
+	"fname": "İlkay",
+	"lname": "Karcioğlu",
+	"num": "152120178379",
+	"dept": "4",
+	"pob": "Hakkari",
+	"dob": "1997-12-07"
+},
+
+{
+	"id": 138,
+	"fname": "İlker",
+	"lname": "Köksal",
+	"num": "152120176774",
+	"dept": "3",
+	"pob": "Kastamonu",
+	"dob": "1997-01-09"
+},
+
+{
+	"id": 139,
+	"fname": "Ayla",
+	"lname": "Tenekeci̇",
+	"num": "152120171354",
+	"dept": "1",
+	"pob": "Aksaray",
+	"dob": "1999-03-08"
+},
+
+{
+	"id": 140,
+	"fname": "Nazan",
+	"lname": "Ünal",
+	"num": "152120176617",
+	"dept": "3",
+	"pob": "Çorum",
+	"dob": "1997-01-11"
+},
+
+{
+	"id": 141,
+	"fname": "Füsun",
+	"lname": "Oral",
+	"num": "152120179540",
+	"dept": "4",
+	"pob": "Çankırı",
+	"dob": "1997-04-01"
+},
+
+{
+	"id": 142,
+	"fname": "Ergün",
+	"lname": "Kaplan",
+	"num": "152120172429",
+	"dept": "2",
+	"pob": "Kırklareli",
+	"dob": "2001-09-25"
+},
+
+{
+	"id": 143,
+	"fname": "Nuray",
+	"lname": "Sadunoğlu",
+	"num": "152120172762",
+	"dept": "4",
+	"pob": "Bitlis",
+	"dob": "1999-07-01"
+},
+
+{
+	"id": 144,
+	"fname": "Suat",
+	"lname": "Şi̇mşek",
+	"num": "152120173516",
+	"dept": "3",
+	"pob": "Isparta",
+	"dob": "1999-10-18"
+},
+
+{
+	"id": 145,
+	"fname": "Mehmet",
+	"lname": "Koç",
+	"num": "152120175936",
+	"dept": "4",
+	"pob": "Manisa",
+	"dob": "1997-04-09"
+},
+
+{
+	"id": 146,
+	"fname": "İsmai̇l",
+	"lname": "Yalniz",
+	"num": "152120177930",
+	"dept": "2",
+	"pob": "Çankırı",
+	"dob": "1998-06-28"
+},
+
+{
+	"id": 147,
+	"fname": "Andaç",
+	"lname": "Polat",
+	"num": "152120172098",
+	"dept": "1",
+	"pob": "Sinop",
+	"dob": "1998-12-28"
+},
+
+{
+	"id": 148,
+	"fname": "Gökhan",
+	"lname": "Özkan",
+	"num": "152120176049",
+	"dept": "1",
+	"pob": "Batman",
+	"dob": "2000-11-25"
+},
+
+{
+	"id": 149,
+	"fname": "Saadet",
+	"lname": "Gökalp",
+	"num": "152120174895",
+	"dept": "2",
+	"pob": "Antalya",
+	"dob": "1997-01-16"
+},
+
+{
+	"id": 150,
+	"fname": "Dervi̇ş",
+	"lname": "Öztürk",
+	"num": "152120176917",
+	"dept": "1",
+	"pob": "Mardin",
+	"dob": "2001-11-28"
+},
+
+{
+	"id": 151,
+	"fname": "Emrah",
+	"lname": "Işik",
+	"num": "152120178127",
+	"dept": "4",
+	"pob": "Karabük",
+	"dob": "2001-11-13"
+},
+
+{
+	"id": 152,
+	"fname": "Özgür",
+	"lname": "Ni̇meti̇gi̇l",
+	"num": "152120178617",
+	"dept": "2",
+	"pob": "Gaziantep",
+	"dob": "1999-04-18"
+},
+
+{
+	"id": 153,
+	"fname": "Cundullah",
+	"lname": "Kocubeyoğlu",
+	"num": "152120170878",
+	"dept": "1",
+	"pob": "Kahramanmaras",
+	"dob": "1998-10-02"
+},
+
+{
+	"id": 154,
+	"fname": "Emre",
+	"lname": "Işik",
+	"num": "152120178622",
+	"dept": "3",
+	"pob": "Kocaeli",
+	"dob": "1998-04-06"
+},
+
+{
+	"id": 155,
+	"fname": "Aydoğan",
+	"lname": "Yilmaz",
+	"num": "152120171556",
+	"dept": "3",
+	"pob": "Balıkesir",
+	"dob": "2001-11-13"
+},
+
+{
+	"id": 156,
+	"fname": "Abdullati̇f",
+	"lname": "Yaşar",
+	"num": "152120172008",
+	"dept": "3",
+	"pob": "Bartın",
+	"dob": "2000-03-13"
+},
+
+{
+	"id": 157,
+	"fname": "Zeri̇n",
+	"lname": "Durman",
+	"num": "152120172960",
+	"dept": "1",
+	"pob": "Karaman",
+	"dob": "1999-05-06"
+},
+
+{
+	"id": 158,
+	"fname": "Ayşe",
+	"lname": "Doğan",
+	"num": "152120172744",
+	"dept": "4",
+	"pob": "Samsun",
+	"dob": "2000-06-21"
+},
+
+{
+	"id": 159,
+	"fname": "Kübra",
+	"lname": "Yalçin",
+	"num": "152120178731",
+	"dept": "3",
+	"pob": "Kastamonu",
+	"dob": "1997-10-18"
+},
+
+{
+	"id": 160,
+	"fname": "Ezgi̇",
+	"lname": "Karli",
+	"num": "152120173159",
+	"dept": "4",
+	"pob": "Mardin",
+	"dob": "1997-07-28"
+},
+
+{
+	"id": 161,
+	"fname": "Şeri̇fe Yasemi̇n",
+	"lname": "Taş",
+	"num": "152120170351",
+	"dept": "1",
+	"pob": "Adana",
+	"dob": "1999-04-13"
+},
+
+{
+	"id": 162,
+	"fname": "Yildirim",
+	"lname": "Oğuz",
+	"num": "152120171319",
+	"dept": "3",
+	"pob": "Denizli",
+	"dob": "1998-01-20"
+},
+
+{
+	"id": 163,
+	"fname": "Mert",
+	"lname": "Üçgül",
+	"num": "152120177758",
+	"dept": "2",
+	"pob": "Burdur",
+	"dob": "1999-01-21"
+},
+
+{
+	"id": 164,
+	"fname": "Meral",
+	"lname": "Yildiz",
+	"num": "152120176980",
+	"dept": "2",
+	"pob": "Yalova",
+	"dob": "1999-08-26"
+},
+
+{
+	"id": 165,
+	"fname": "Mehmet Nedi̇m",
+	"lname": "Alimli",
+	"num": "152120177413",
+	"dept": "3",
+	"pob": "Yozgat",
+	"dob": "1998-07-25"
+},
+
+{
+	"id": 166,
+	"fname": "Seher",
+	"lname": "Aktuğ",
+	"num": "152120179812",
+	"dept": "4",
+	"pob": "Erzincan",
+	"dob": "1997-08-02"
+},
+
+{
+	"id": 167,
+	"fname": "Serkan",
+	"lname": "İnce",
+	"num": "152120179325",
+	"dept": "1",
+	"pob": "Aydın",
+	"dob": "1999-01-14"
+},
+
+{
+	"id": 168,
+	"fname": "İlker",
+	"lname": "Doğan",
+	"num": "152120177104",
+	"dept": "1",
+	"pob": "Düzce",
+	"dob": "1998-03-18"
+},
+
+{
+	"id": 169,
+	"fname": "Ercan",
+	"lname": "Yayikçi",
+	"num": "152120175694",
+	"dept": "4",
+	"pob": "Gaziantep",
+	"dob": "1997-12-15"
+},
+
+{
+	"id": 170,
+	"fname": "Rabi̇a Şebnem",
+	"lname": "Toptaş",
+	"num": "152120174853",
+	"dept": "2",
+	"pob": "Gaziantep",
+	"dob": "1999-05-20"
+},
+
+{
+	"id": 171,
+	"fname": "Hüseyi̇n",
+	"lname": "Kilinç",
+	"num": "152120175019",
+	"dept": "1",
+	"pob": "Çorum",
+	"dob": "1999-04-27"
+},
+
+{
+	"id": 172,
+	"fname": "Derya",
+	"lname": "Senemtaşi",
+	"num": "152120176242",
+	"dept": "4",
+	"pob": "Sakarya",
+	"dob": "1999-10-17"
+},
+
+{
+	"id": 173,
+	"fname": "Hande",
+	"lname": "İlbay",
+	"num": "152120177385",
+	"dept": "3",
+	"pob": "Mersin",
+	"dob": "2001-06-12"
+},
+
+{
+	"id": 174,
+	"fname": "Mahmut",
+	"lname": "Yilmaz",
+	"num": "152120178258",
+	"dept": "3",
+	"pob": "Sivas",
+	"dob": "1998-07-24"
+},
+
+{
+	"id": 175,
+	"fname": "Zekeri̇ya",
+	"lname": "Kadak",
+	"num": "152120177558",
+	"dept": "1",
+	"pob": "Hakkari",
+	"dob": "2000-08-02"
+},
+
+{
+	"id": 176,
+	"fname": "Sali̇h",
+	"lname": "Yildiz",
+	"num": "152120179212",
+	"dept": "4",
+	"pob": "Amasya",
+	"dob": "1998-10-26"
+},
+
+{
+	"id": 177,
+	"fname": "Savaş",
+	"lname": "Baysal",
+	"num": "152120170126",
+	"dept": "1",
+	"pob": "Sanlıurfa",
+	"dob": "1999-06-19"
+},
+
+{
+	"id": 178,
+	"fname": "Turğut",
+	"lname": "Gündüz",
+	"num": "152120176265",
+	"dept": "4",
+	"pob": "Bingöl",
+	"dob": "1999-07-01"
+},
+
+{
+	"id": 179,
+	"fname": "Özlem",
+	"lname": "Kapar",
+	"num": "152120178674",
+	"dept": "4",
+	"pob": "Giresun",
+	"dob": "1999-11-09"
+},
+
+{
+	"id": 180,
+	"fname": "Ni̇han",
+	"lname": "Karadeni̇z",
+	"num": "152120179122",
+	"dept": "1",
+	"pob": "Mus",
+	"dob": "1999-04-03"
+},
+
+{
+	"id": 181,
+	"fname": "Ümi̇t",
+	"lname": "Şahi̇n",
+	"num": "152120177284",
+	"dept": "2",
+	"pob": "Niğde",
+	"dob": "2000-11-19"
+},
+
+{
+	"id": 182,
+	"fname": "Mustafa",
+	"lname": "Ti̇murtaş Dayar",
+	"num": "152120173972",
+	"dept": "4",
+	"pob": "Yozgat",
+	"dob": "1998-09-10"
+},
+
+{
+	"id": 183,
+	"fname": "Nagi̇han",
+	"lname": "Ati̇la",
+	"num": "152120179097",
+	"dept": "1",
+	"pob": "Mersin",
+	"dob": "2000-08-15"
+},
+
+{
+	"id": 184,
+	"fname": "Ekrem",
+	"lname": "Kizildağ",
+	"num": "152120179650",
+	"dept": "3",
+	"pob": "Sakarya",
+	"dob": "2001-09-12"
+},
+
+{
+	"id": 185,
+	"fname": "Hi̇cran",
+	"lname": "Kiliç Yildirim",
+	"num": "152120171255",
+	"dept": "1",
+	"pob": "Erzincan",
+	"dob": "1999-01-09"
+},
+
+{
+	"id": 186,
+	"fname": "Hacer",
+	"lname": "Böyük",
+	"num": "152120170522",
+	"dept": "1",
+	"pob": "Burdur",
+	"dob": "1999-05-27"
+},
+
+{
+	"id": 187,
+	"fname": "Ahmet Mert",
+	"lname": "Eraslan",
+	"num": "152120175269",
+	"dept": "1",
+	"pob": "Sinop",
+	"dob": "1999-11-24"
+},
+
+{
+	"id": 188,
+	"fname": "İhsan",
+	"lname": "Tazeoğlu",
+	"num": "152120173582",
+	"dept": "4",
+	"pob": "Ankara",
+	"dob": "1997-03-09"
+},
+
+{
+	"id": 189,
+	"fname": "Özlem",
+	"lname": "Şi̇mşek",
+	"num": "152120178097",
+	"dept": "1",
+	"pob": "Aksaray",
+	"dob": "1999-03-12"
+},
+
+{
+	"id": 190,
+	"fname": "Hale",
+	"lname": "Köse",
+	"num": "152120173224",
+	"dept": "3",
+	"pob": "Giresun",
+	"dob": "1999-11-15"
+},
+
+{
+	"id": 191,
+	"fname": "Ni̇hal",
+	"lname": "Albayrak",
+	"num": "152120172888",
+	"dept": "1",
+	"pob": "Adıyaman",
+	"dob": "2001-11-01"
+},
+
+{
+	"id": 192,
+	"fname": "Bayram",
+	"lname": "Gökten",
+	"num": "152120176439",
+	"dept": "4",
+	"pob": "Adıyaman",
+	"dob": "2000-04-19"
+},
+
+{
+	"id": 193,
+	"fname": "Suat",
+	"lname": "Saatçioğlu",
+	"num": "152120176726",
+	"dept": "4",
+	"pob": "Bolu",
+	"dob": "1998-06-21"
+},
+
+{
+	"id": 194,
+	"fname": "Mi̇ne",
+	"lname": "Kindir",
+	"num": "152120172557",
+	"dept": "1",
+	"pob": "Aksaray",
+	"dob": "1998-03-10"
+},
+
+{
+	"id": 195,
+	"fname": "Ebru",
+	"lname": "Yilmaz",
+	"num": "152120171450",
+	"dept": "4",
+	"pob": "Bayburt",
+	"dob": "1998-02-24"
+},
+
+{
+	"id": 196,
+	"fname": "Arzu",
+	"lname": "Çoban",
+	"num": "152120175194",
+	"dept": "2",
+	"pob": "Elazığ",
+	"dob": "2000-03-02"
+},
+
+{
+	"id": 197,
+	"fname": "Ti̇mur",
+	"lname": "Altun",
+	"num": "152120172673",
+	"dept": "3",
+	"pob": "Gaziantep",
+	"dob": "1997-08-22"
+},
+
+{
+	"id": 198,
+	"fname": "Sebahat",
+	"lname": "Köksal",
+	"num": "152120171575",
+	"dept": "4",
+	"pob": "Ardahan",
+	"dob": "1999-08-04"
+},
+
+{
+	"id": 199,
+	"fname": "Feray",
+	"lname": "Özel",
+	"num": "152120173316",
+	"dept": "1",
+	"pob": "Yozgat",
+	"dob": "2000-12-13"
+},
+
+{
+	"id": 200,
+	"fname": "Emi̇ş",
+	"lname": "Açar",
+	"num": "152120174816",
+	"dept": "3",
+	"pob": "Erzincan",
+	"dob": "1998-07-19"
+},
+
+{
+	"id": 201,
+	"fname": "Hüseyi̇n",
+	"lname": "Bayram",
+	"num": "152120176721",
+	"dept": "3",
+	"pob": "Antalya",
+	"dob": "1999-03-18"
+},
+
+{
+	"id": 202,
+	"fname": "Esen",
+	"lname": "Bi̇li̇ci̇",
+	"num": "152120172375",
+	"dept": "4",
+	"pob": "Amasya",
+	"dob": "1999-06-07"
+},
+
+{
+	"id": 203,
+	"fname": "Hasan",
+	"lname": "Dağli",
+	"num": "152120178727",
+	"dept": "1",
+	"pob": "Çorum",
+	"dob": "1998-06-09"
+},
+
+{
+	"id": 204,
+	"fname": "Aysel",
+	"lname": "Azap",
+	"num": "152120177001",
+	"dept": "2",
+	"pob": "Gaziantep",
+	"dob": "1997-02-17"
+},
+
+{
+	"id": 205,
+	"fname": "Fi̇li̇z",
+	"lname": "Saraç",
+	"num": "152120175031",
+	"dept": "2",
+	"pob": "Rize",
+	"dob": "1998-02-26"
+},
+
+{
+	"id": 206,
+	"fname": "Atakan",
+	"lname": "Yalçin",
+	"num": "152120174234",
+	"dept": "4",
+	"pob": "Erzurum",
+	"dob": "1999-08-30"
+},
+
+{
+	"id": 207,
+	"fname": "Hasan Hüseyi̇n",
+	"lname": "Genez",
+	"num": "152120175123",
+	"dept": "2",
+	"pob": "Edirne",
+	"dob": "1998-07-18"
+},
+
+{
+	"id": 208,
+	"fname": "Işil",
+	"lname": "İnan",
+	"num": "152120170987",
+	"dept": "2",
+	"pob": "Ankara",
+	"dob": "1998-05-14"
+},
+
+{
+	"id": 209,
+	"fname": "Emi̇n",
+	"lname": "Kayhan",
+	"num": "152120178022",
+	"dept": "2",
+	"pob": "Burdur",
+	"dob": "1999-02-03"
+},
+
+{
+	"id": 210,
+	"fname": "Sevgi̇",
+	"lname": "Celi̇loğlu",
+	"num": "152120176111",
+	"dept": "4",
+	"pob": "Edirne",
+	"dob": "1997-06-14"
+},
+
+{
+	"id": 211,
+	"fname": "Mehmet Yildirim",
+	"lname": "Koçyi̇ği̇t",
+	"num": "152120175286",
+	"dept": "2",
+	"pob": "Bursa",
+	"dob": "1999-05-11"
+},
+
+{
+	"id": 212,
+	"fname": "Erdal",
+	"lname": "Tani̇n",
+	"num": "152120172399",
+	"dept": "2",
+	"pob": "Adana",
+	"dob": "1998-09-27"
+},
+
+{
+	"id": 213,
+	"fname": "Fai̇k",
+	"lname": "Demi̇rel",
+	"num": "152120176486",
+	"dept": "4",
+	"pob": "Artvin",
+	"dob": "2001-10-26"
+},
+
+{
+	"id": 214,
+	"fname": "İlker",
+	"lname": "Özer",
+	"num": "152120175449",
+	"dept": "1",
+	"pob": "Diyarbakır",
+	"dob": "1999-10-06"
+},
+
+{
+	"id": 215,
+	"fname": "Seda",
+	"lname": "Çi̇ftci̇",
+	"num": "152120174915",
+	"dept": "1",
+	"pob": "Bitlis",
+	"dob": "1999-02-13"
+},
+
+{
+	"id": 216,
+	"fname": "Hati̇ke",
+	"lname": "Teki̇r",
+	"num": "152120175290",
+	"dept": "2",
+	"pob": "Çorum",
+	"dob": "1999-11-17"
+},
+
+{
+	"id": 217,
+	"fname": "Muhammed Riza",
+	"lname": "Bolat",
+	"num": "152120170262",
+	"dept": "3",
+	"pob": "Muğla",
+	"dob": "2001-03-22"
+},
+
+{
+	"id": 218,
+	"fname": "Fuat",
+	"lname": "Karcioğlu",
+	"num": "152120170298",
+	"dept": "4",
+	"pob": "Niğde",
+	"dob": "1998-03-27"
+},
+
+{
+	"id": 219,
+	"fname": "Fatma",
+	"lname": "Yüksel",
+	"num": "152120177320",
+	"dept": "1",
+	"pob": "Sivas",
+	"dob": "1999-08-03"
+},
+
+{
+	"id": 220,
+	"fname": "Ci̇han",
+	"lname": "Coşkun",
+	"num": "152120172301",
+	"dept": "1",
+	"pob": "Hakkari",
+	"dob": "2001-11-14"
+},
+
+{
+	"id": 221,
+	"fname": "Rabi̇a",
+	"lname": "Özçeli̇k",
+	"num": "152120171143",
+	"dept": "4",
+	"pob": "Nevsehir",
+	"dob": "1999-01-19"
+},
+
+{
+	"id": 222,
+	"fname": "Yusuf",
+	"lname": "Yücel",
+	"num": "152120171148",
+	"dept": "3",
+	"pob": "Gümüshane",
+	"dob": "2001-04-23"
+},
+
+{
+	"id": 223,
+	"fname": "Emi̇n",
+	"lname": "Ateş",
+	"num": "152120178114",
+	"dept": "4",
+	"pob": "Gümüshane",
+	"dob": "2001-01-22"
+},
+
+{
+	"id": 224,
+	"fname": "Nebi̇l",
+	"lname": "Atak",
+	"num": "152120174472",
+	"dept": "3",
+	"pob": "Hatay",
+	"dob": "2001-03-14"
+},
+
+{
+	"id": 225,
+	"fname": "Yurdagül",
+	"lname": "Akpinar",
+	"num": "152120175524",
+	"dept": "4",
+	"pob": "Kırsehir",
+	"dob": "1999-06-01"
+},
+
+{
+	"id": 226,
+	"fname": "Yasemi̇n",
+	"lname": "Yilmaz",
+	"num": "152120170536",
+	"dept": "1",
+	"pob": "Usak",
+	"dob": "2001-01-04"
+},
+
+{
+	"id": 227,
+	"fname": "Abdurrahman Fuat",
+	"lname": "Doruk",
+	"num": "152120176714",
+	"dept": "1",
+	"pob": "Gaziantep",
+	"dob": "1998-01-06"
+},
+
+{
+	"id": 228,
+	"fname": "Esra",
+	"lname": "Sari",
+	"num": "152120172820",
+	"dept": "1",
+	"pob": "Amasya",
+	"dob": "2001-05-04"
+},
+
+{
+	"id": 229,
+	"fname": "Hasan",
+	"lname": "Demi̇rtaş",
+	"num": "152120171922",
+	"dept": "1",
+	"pob": "Kayseri",
+	"dob": "2001-04-15"
+},
+
+{
+	"id": 230,
+	"fname": "Mustafa Ali̇",
+	"lname": "Topal",
+	"num": "152120175447",
+	"dept": "1",
+	"pob": "Gaziantep",
+	"dob": "1997-10-24"
+},
+
+{
+	"id": 231,
+	"fname": "Berçem",
+	"lname": "Koçar",
+	"num": "152120171384",
+	"dept": "4",
+	"pob": "Düzce",
+	"dob": "1999-01-13"
+},
+
+{
+	"id": 232,
+	"fname": "İlkay",
+	"lname": "Bozarslan",
+	"num": "152120174272",
+	"dept": "4",
+	"pob": "Ankara",
+	"dob": "1998-12-21"
+},
+
+{
+	"id": 233,
+	"fname": "Adem",
+	"lname": "Ölker",
+	"num": "152120179371",
+	"dept": "2",
+	"pob": "Kastamonu",
+	"dob": "1997-05-08"
+},
+
+{
+	"id": 234,
+	"fname": "Mehmet",
+	"lname": "Duysak",
+	"num": "152120173307",
+	"dept": "4",
+	"pob": "İstanbul",
+	"dob": "2000-12-20"
+},
+
+{
+	"id": 235,
+	"fname": "Ahmet",
+	"lname": "Gürbostan",
+	"num": "152120177713",
+	"dept": "4",
+	"pob": "Amasya",
+	"dob": "1998-10-15"
+},
+
+{
+	"id": 236,
+	"fname": "Hazel",
+	"lname": "Özaydin",
+	"num": "152120172516",
+	"dept": "2",
+	"pob": "Tekirdağ",
+	"dob": "1998-05-09"
+},
+
+{
+	"id": 237,
+	"fname": "Sultan",
+	"lname": "Çeti̇n",
+	"num": "152120176905",
+	"dept": "3",
+	"pob": "Düzce",
+	"dob": "2000-01-14"
+},
+
+{
+	"id": 238,
+	"fname": "Yelda",
+	"lname": "Özel",
+	"num": "152120175503",
+	"dept": "1",
+	"pob": "Artvin",
+	"dob": "1997-07-26"
+},
+
+{
+	"id": 239,
+	"fname": "Emi̇ne",
+	"lname": "Yanni̇",
+	"num": "152120179124",
+	"dept": "4",
+	"pob": "Kahramanmaras",
+	"dob": "1998-09-11"
+},
+
+{
+	"id": 240,
+	"fname": "Nezi̇r",
+	"lname": "Cengi̇z",
+	"num": "152120178507",
+	"dept": "4",
+	"pob": "Kırklareli",
+	"dob": "1998-01-26"
+},
+
+{
+	"id": 241,
+	"fname": "Nurdan",
+	"lname": "Çağlar",
+	"num": "152120172204",
+	"dept": "3",
+	"pob": "Çanakkale",
+	"dob": "2000-04-10"
+},
+
+{
+	"id": 242,
+	"fname": "Abdullah",
+	"lname": "Koluş",
+	"num": "152120173151",
+	"dept": "1",
+	"pob": "Zonguldak",
+	"dob": "2001-08-08"
+},
+
+{
+	"id": 243,
+	"fname": "Ayli̇n",
+	"lname": "Gülşen",
+	"num": "152120170976",
+	"dept": "4",
+	"pob": "Eskisehir",
+	"dob": "2000-03-13"
+},
+
+{
+	"id": 244,
+	"fname": "Duygu",
+	"lname": "Günaydin",
+	"num": "152120175032",
+	"dept": "2",
+	"pob": "Kocaeli",
+	"dob": "1997-08-25"
+},
+
+{
+	"id": 245,
+	"fname": "Ahmet",
+	"lname": "Aslan",
+	"num": "152120178815",
+	"dept": "2",
+	"pob": "İstanbul",
+	"dob": "1999-02-07"
+},
+
+{
+	"id": 246,
+	"fname": "Evren",
+	"lname": "Oğuz",
+	"num": "152120175588",
+	"dept": "2",
+	"pob": "Trabzon",
+	"dob": "2000-04-02"
+},
+
+{
+	"id": 247,
+	"fname": "İbrahi̇m",
+	"lname": "Çakmak",
+	"num": "152120172543",
+	"dept": "4",
+	"pob": "Sanlıurfa",
+	"dob": "2000-03-03"
+},
+
+{
+	"id": 248,
+	"fname": "Aydoğan",
+	"lname": "Nacaroğlu",
+	"num": "152120175944",
+	"dept": "3",
+	"pob": "İstanbul",
+	"dob": "1999-02-18"
+},
+
+{
+	"id": 249,
+	"fname": "Ceyda",
+	"lname": "Turğut",
+	"num": "152120170512",
+	"dept": "4",
+	"pob": "Karabük",
+	"dob": "2000-08-16"
+},
+
+{
+	"id": 250,
+	"fname": "Pinar",
+	"lname": "Toy",
+	"num": "152120171402",
+	"dept": "4",
+	"pob": "Diyarbakır",
+	"dob": "1998-11-02"
+},
+
+{
+	"id": 251,
+	"fname": "Rabi̇a Şebnem",
+	"lname": "Özkaynar",
+	"num": "152120171476",
+	"dept": "1",
+	"pob": "Hatay",
+	"dob": "1997-09-02"
+},
+
+{
+	"id": 252,
+	"fname": "Mehmet",
+	"lname": "Taş",
+	"num": "152120176701",
+	"dept": "1",
+	"pob": "Tokat",
+	"dob": "1997-09-07"
+},
+
+{
+	"id": 253,
+	"fname": "Pinar",
+	"lname": "Karagöz",
+	"num": "152120172162",
+	"dept": "3",
+	"pob": "Kars",
+	"dob": "2000-11-17"
+},
+
+{
+	"id": 254,
+	"fname": "Burak",
+	"lname": "Sayin",
+	"num": "152120173933",
+	"dept": "2",
+	"pob": "Artvin",
+	"dob": "1999-01-11"
+},
+
+{
+	"id": 255,
+	"fname": "Bengühan",
+	"lname": "Gi̇der",
+	"num": "152120179072",
+	"dept": "4",
+	"pob": "Kırıkkale",
+	"dob": "1997-12-27"
+},
+
+{
+	"id": 256,
+	"fname": "Tülay",
+	"lname": "Kol",
+	"num": "152120179430",
+	"dept": "4",
+	"pob": "Hakkari",
+	"dob": "1997-07-25"
+},
+
+{
+	"id": 257,
+	"fname": "Murat",
+	"lname": "Bi̇li̇ci̇",
+	"num": "152120173910",
+	"dept": "2",
+	"pob": "Rize",
+	"dob": "2001-03-18"
+},
+
+{
+	"id": 258,
+	"fname": "Feri̇de",
+	"lname": "Di̇koğlu",
+	"num": "152120179910",
+	"dept": "1",
+	"pob": "Denizli",
+	"dob": "1997-03-11"
+},
+
+{
+	"id": 259,
+	"fname": "Hasan",
+	"lname": "Kara",
+	"num": "152120175786",
+	"dept": "3",
+	"pob": "Karabük",
+	"dob": "2000-04-01"
+},
+
+{
+	"id": 260,
+	"fname": "Zehra",
+	"lname": "Başyi̇ği̇t",
+	"num": "152120178876",
+	"dept": "1",
+	"pob": "Balıkesir",
+	"dob": "2001-11-27"
+},
+
+{
+	"id": 261,
+	"fname": "Mehmet Hi̇lmi̇",
+	"lname": "Kavurgaci",
+	"num": "152120177547",
+	"dept": "2",
+	"pob": "Kütahya",
+	"dob": "1998-10-10"
+},
+
+{
+	"id": 262,
+	"fname": "Özlem",
+	"lname": "Taşci",
+	"num": "152120179947",
+	"dept": "4",
+	"pob": "Gümüshane",
+	"dob": "1998-02-02"
+},
+
+{
+	"id": 263,
+	"fname": "Betül",
+	"lname": "İlgün",
+	"num": "152120177999",
+	"dept": "4",
+	"pob": "Çorum",
+	"dob": "1998-07-12"
+},
+
+{
+	"id": 264,
+	"fname": "Ti̇mur",
+	"lname": "Yalçin",
+	"num": "152120171548",
+	"dept": "4",
+	"pob": "Sakarya",
+	"dob": "2001-03-29"
+},
+
+{
+	"id": 265,
+	"fname": "Gökhan",
+	"lname": "Kizmazoğlu",
+	"num": "152120176348",
+	"dept": "4",
+	"pob": "Usak",
+	"dob": "1999-10-11"
+},
+
+{
+	"id": 266,
+	"fname": "İlker",
+	"lname": "Gürbostan",
+	"num": "152120178506",
+	"dept": "2",
+	"pob": "Bitlis",
+	"dob": "2001-11-24"
+},
+
+{
+	"id": 267,
+	"fname": "Mustafa",
+	"lname": "Önder",
+	"num": "152120179136",
+	"dept": "3",
+	"pob": "Aksaray",
+	"dob": "1997-12-04"
+},
+
+{
+	"id": 268,
+	"fname": "Zeynep",
+	"lname": "Işikalan",
+	"num": "152120177057",
+	"dept": "4",
+	"pob": "Denizli",
+	"dob": "2000-02-26"
+},
+
+{
+	"id": 269,
+	"fname": "Aybüke",
+	"lname": "Eki̇nci̇",
+	"num": "152120174776",
+	"dept": "1",
+	"pob": "Antalya",
+	"dob": "1999-07-29"
+},
+
+{
+	"id": 270,
+	"fname": "Nesli̇han",
+	"lname": "Ayteki̇n",
+	"num": "152120175982",
+	"dept": "3",
+	"pob": "Zonguldak",
+	"dob": "1999-08-03"
+},
+
+{
+	"id": 271,
+	"fname": "Hakan",
+	"lname": "Yayikçi",
+	"num": "152120173872",
+	"dept": "3",
+	"pob": "Elazığ",
+	"dob": "2000-09-20"
+},
+
+{
+	"id": 272,
+	"fname": "Şafak",
+	"lname": "Tokatlioğlu",
+	"num": "152120171757",
+	"dept": "1",
+	"pob": "Siirt",
+	"dob": "1998-08-03"
+},
+
+{
+	"id": 273,
+	"fname": "Berri̇n",
+	"lname": "Arikan Yorgun",
+	"num": "152120174273",
+	"dept": "2",
+	"pob": "Çorum",
+	"dob": "2001-07-30"
+},
+
+{
+	"id": 274,
+	"fname": "Alper",
+	"lname": "Koçoğlu",
+	"num": "152120170732",
+	"dept": "3",
+	"pob": "Bolu",
+	"dob": "1997-01-27"
+},
+
+{
+	"id": 275,
+	"fname": "Hati̇ce",
+	"lname": "Özdemi̇r",
+	"num": "152120176905",
+	"dept": "2",
+	"pob": "Kastamonu",
+	"dob": "1997-04-28"
+},
+
+{
+	"id": 276,
+	"fname": "Sabri̇ Sefa",
+	"lname": "Yüksel",
+	"num": "152120174473",
+	"dept": "2",
+	"pob": "Çanakkale",
+	"dob": "1997-04-22"
+},
+
+{
+	"id": 277,
+	"fname": "Abdulselam",
+	"lname": "Çomut",
+	"num": "152120175959",
+	"dept": "1",
+	"pob": "Sivas",
+	"dob": "2001-06-02"
+},
+
+{
+	"id": 278,
+	"fname": "Erhan",
+	"lname": "Akkaya",
+	"num": "152120172787",
+	"dept": "3",
+	"pob": "Trabzon",
+	"dob": "2000-10-30"
+},
+
+{
+	"id": 279,
+	"fname": "Nurdan",
+	"lname": "Şahi̇n",
+	"num": "152120170235",
+	"dept": "4",
+	"pob": "Batman",
+	"dob": "1999-06-02"
+},
+
+{
+	"id": 280,
+	"fname": "Yusuf",
+	"lname": "Güneysu",
+	"num": "152120171844",
+	"dept": "2",
+	"pob": "Mus",
+	"dob": "1998-10-14"
+},
+
+{
+	"id": 281,
+	"fname": "Semra",
+	"lname": "Şahi̇n",
+	"num": "152120172934",
+	"dept": "2",
+	"pob": "Adıyaman",
+	"dob": "1997-07-04"
+},
+
+{
+	"id": 282,
+	"fname": "Ertan",
+	"lname": "Yalçin",
+	"num": "152120179960",
+	"dept": "4",
+	"pob": "Muğla",
+	"dob": "1997-04-28"
+},
+
+{
+	"id": 283,
+	"fname": "Haşi̇m Onur",
+	"lname": "Uysal",
+	"num": "152120178131",
+	"dept": "1",
+	"pob": "Samsun",
+	"dob": "2001-02-08"
+},
+
+{
+	"id": 284,
+	"fname": "Irazca",
+	"lname": "Çalik",
+	"num": "152120178115",
+	"dept": "2",
+	"pob": "Zonguldak",
+	"dob": "1997-08-29"
+},
+
+{
+	"id": 285,
+	"fname": "Ferat",
+	"lname": "Toper",
+	"num": "152120177957",
+	"dept": "2",
+	"pob": "Mardin",
+	"dob": "1999-12-14"
+},
+
+{
+	"id": 286,
+	"fname": "Mustafa",
+	"lname": "Özalp",
+	"num": "152120173129",
+	"dept": "2",
+	"pob": "Adana",
+	"dob": "2000-10-06"
+},
+
+{
+	"id": 287,
+	"fname": "İlhan",
+	"lname": "Ozan",
+	"num": "152120170566",
+	"dept": "1",
+	"pob": "Tunceli",
+	"dob": "2001-11-30"
+},
+
+{
+	"id": 288,
+	"fname": "Serhat",
+	"lname": "Doğan",
+	"num": "152120171662",
+	"dept": "2",
+	"pob": "Nevsehir",
+	"dob": "1999-10-21"
+},
+
+{
+	"id": 289,
+	"fname": "Engi̇n",
+	"lname": "Seyhan",
+	"num": "152120174394",
+	"dept": "1",
+	"pob": "Kocaeli",
+	"dob": "1997-07-29"
+},
+
+{
+	"id": 290,
+	"fname": "Aysu",
+	"lname": "Pi̇rdoğan",
+	"num": "152120170862",
+	"dept": "3",
+	"pob": "Yalova",
+	"dob": "1998-05-10"
+},
+
+{
+	"id": 291,
+	"fname": "Murat",
+	"lname": "Kurt",
+	"num": "152120170230",
+	"dept": "4",
+	"pob": "Erzincan",
+	"dob": "2001-01-27"
+},
+
+{
+	"id": 292,
+	"fname": "Mustafa",
+	"lname": "Güzelküçük",
+	"num": "152120171726",
+	"dept": "3",
+	"pob": "Hakkari",
+	"dob": "2000-07-22"
+},
+
+{
+	"id": 293,
+	"fname": "Tesli̇me Nazli",
+	"lname": "Ki̇ri̇şci̇",
+	"num": "152120170456",
+	"dept": "3",
+	"pob": "Zonguldak",
+	"dob": "2000-05-19"
+},
+
+{
+	"id": 294,
+	"fname": "Ali̇",
+	"lname": "Bayam",
+	"num": "152120171778",
+	"dept": "2",
+	"pob": "Çankırı",
+	"dob": "1999-09-08"
+},
+
+{
+	"id": 295,
+	"fname": "Fati̇h",
+	"lname": "Pirti",
+	"num": "152120171694",
+	"dept": "3",
+	"pob": "Bitlis",
+	"dob": "2001-03-26"
+},
+
+{
+	"id": 296,
+	"fname": "Ömer",
+	"lname": "Özyörük",
+	"num": "152120179497",
+	"dept": "4",
+	"pob": "Konya",
+	"dob": "2000-12-22"
+},
+
+{
+	"id": 297,
+	"fname": "Mehmet",
+	"lname": "Koç",
+	"num": "152120179872",
+	"dept": "4",
+	"pob": "Osmaniye",
+	"dob": "1997-07-03"
+},
+
+{
+	"id": 298,
+	"fname": "Esi̇n",
+	"lname": "Uyğun",
+	"num": "152120175730",
+	"dept": "3",
+	"pob": "Karabük",
+	"dob": "2001-12-11"
+},
+
+{
+	"id": 299,
+	"fname": "Dervi̇ş",
+	"lname": "Yilmaz",
+	"num": "152120176978",
+	"dept": "1",
+	"pob": "Erzurum",
+	"dob": "2000-12-09"
+},
+
+{
+	"id": 300,
+	"fname": "Osman Sali̇h",
+	"lname": "İnce",
+	"num": "152120179581",
+	"dept": "4",
+	"pob": "Bayburt",
+	"dob": "1999-11-08"
+}
+	]
+}

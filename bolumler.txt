@@ -1,0 +1,124 @@
+lköğretim Din Kültürü ve Ahlak Bilgisi Öğretmenliği
+İlköğretim Din Kültürü ve Ahlak Bilgisi Öğretmenliği(İkinci Öğretim)
+İlköğretim Matematik Öğretmenliği
+İlköğretim Matematik Öğretmenliği(İkinci Öğretim)
+İngilizce Öğretmenliği
+Kimya Öğretmenliği
+Matematik Öğretmenliği
+Okul Öncesi Öğretmenliği
+Okul Öncesi Öğretmenliği(İkinci Öğretim)
+Rehberlik ve Psikolojik Danışmanlık
+Sınıf Öğretmenliği
+Sınıf Öğretmenliği(İkinci Öğretim)
+Sosyal Bilgiler Öğretmenliği
+Sosyal Bilgiler Öğretmenliği(İkinci Öğretim)
+Tarih Öğretmenliği
+Türk Dili ve Edebiyatı Öğretmenliği
+Türkçe Öğretmenliği
+Zihin Engelliler Öğretmenliği
+Zihin Engelliler Öğretmenliği(İkinci Öğretim)
+Aktüerya (Yüksekokul)
+Aktüerya (Yüksekokul)(İkinci Öğretim)
+Bankacılık (Yüksekokul)
+Bankacılık (Yüksekokul)(İkinci Öğretim)
+Sermaye Piyasası (Yüksekokul)
+Sermaye Piyasası (Yüksekokul)(İkinci Öğretim)
+Sigortacılık (Yüksekokul)
+Sigortacılık (Yüksekokul)(İkinci Öğretim)
+Spor Yöneticiliği (Yüksekokul)
+Diş Hekimliği(İngilizce)
+Eczacılık
+Alman Dili ve Edebiyatı
+Bilgi ve Belge Yönetimi
+Bilgi ve Belge Yönetimi(İkinci Öğretim)
+Biyoloji
+Biyoloji(İkinci Öğretim)
+Coğrafya
+Fizik
+İstatistik
+Kimya
+Matematik
+Matematik(İkinci Öğretim)
+Mütercim-Tercümanlık(Almanca)
+Mütercim-Tercümanlık(Fransızca)
+Mütercim-Tercümanlık(İngilizce)
+Sanat Tarihi
+Sosyoloji(İngilizce)
+Tarih
+Türk Dili ve Edebiyatı
+Türk Dili ve Edebiyatı(İkinci Öğretim)
+Sinema ve Televizyon
+Hukuk
+Hukuk(İkinci Öğretim)
+Çalışma Ekonomisi ve Endüstri İlişkileri
+Çalışma Ekonomisi ve Endüstri İlişkileri(İkinci Öğretim)
+Ekonometri
+Ekonometri(İkinci Öğretim)
+İktisat
+İktisat(İkinci Öğretim)
+İktisat(İngilizce)
+İşletme
+İşletme Enformatiği(Almanca)
+İşletme(Almanca)
+İşletme(İkinci Öğretim)
+İşletme(İngilizce)
+Kamu Yönetimi(Fransızca)
+Maliye
+Maliye(İkinci Öğretim)
+Siyaset Bilimi ve Uluslararası İlişkiler(İngilizce)
+İlahiyat
+İlahiyat(İkinci Öğretim)
+İlahiyat(İngilizce)
+Gazetecilik
+Gazetecilik(İkinci Öğretim)
+Halkla İlişkiler ve Tanıtım
+Halkla İlişkiler ve Tanıtım(İkinci Öğretim)
+Radyo, Televizyon ve Sinema
+Radyo, Televizyon ve Sinema(İkinci Öğretim)
+Bilgisayar Mühendisliği(İngilizce)
+Biyomühendislik(İngilizce)
+Çevre Mühendisliği(İngilizce)
+Elektrik-Elektronik Mühendisliği(İngilizce)
+Endüstri Mühendisliği(İngilizce)
+Kimya Mühendisliği
+Makine Mühendisliği(İngilizce)
+Metalurji ve Malzeme Mühendisliği(İngilizce)
+Beslenme ve Diyetetik (Fakülte)
+Ebelik (Fakülte)
+Fizyoterapi ve Rehabilitasyon (Fakülte)
+Hemşirelik (Fakülte)
+Sağlık Yönetimi (Fakülte)');
+Takı Tasarımı (Yüksekokul)
+Makine Mühendisliği (M.T.O.K.)
+Makine Mühendisliği (Teknoloji Fakültesi)
+Mekatronik Mühendisliği (M.T.O.K.)
+Mekatronik Mühendisliği (Teknoloji Fakültesi)
+Metalurji ve Malzeme Mühendisliği (M.T.O.K.)
+Metalurji ve Malzeme Mühendisliği (Teknoloji Fakültesi)
+Tıp(İngilizce)
+Muhasebe ve Finansal Yönetim (Yüksekokul)
+Muhasebe ve Finansal Yönetim (Yüksekokul)(İkinci Öğretim)
+Uluslararası Ticaret (Yüksekokul)
+Uluslararası Ticaret (Yüksekokul)(İkinci Öğretim)
+Yönetim Bilişim Sistemleri (Yüksekokul)
+Bilgisayar ve Öğretim Teknolojileri Öğretmenliği
+Fen Bilgisi Öğretmenliği
+Fen Bilgisi Öğretmenliği(İkinci Öğretim)
+İlköğretim Matematik Öğretmenliği
+İngilizce Öğretmenliği
+Okul Öncesi Öğretmenliği
+Okul Öncesi Öğretmenliği(İkinci Öğretim)
+Rehberlik ve Psikolojik Danışmanlık
+Sınıf Öğretmenliği
+Sınıf Öğretmenliği(İkinci Öğretim)
+Sosyal Bilgiler Öğretmenliği
+Sosyal Bilgiler Öğretmenliği(İkinci Öğretim)
+Türkçe Öğretmenliği
+Türkçe Öğretmenliği(İkinci Öğretim)
+Antropoloji
+Arkeoloji
+Biyoloji
+Kimya
+Matematik
+Hemşirelik (Yüksekokul)
+Veterinerlik
