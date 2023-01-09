@@ -21,7 +21,7 @@ lastlines =lastnames.readlines()
 sehirler=open('sehirler.txt','r',encoding='utf-8')
 sehirlerLines =sehirler.readlines()
 
-
+#selam
 f.write('{"students":[')    
 numberOfStudents=300;
 for i in range(numberOfStudents):
