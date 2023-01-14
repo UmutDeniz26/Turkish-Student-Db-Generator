@@ -9,7 +9,7 @@ jsonDatabase=json.load(f)
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="112233112233As.",
+  password="pass",
   database="students"
 )
 
