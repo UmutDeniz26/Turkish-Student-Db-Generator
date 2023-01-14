@@ -22,7 +22,7 @@ pobLines =pob.readlines()
 depts=open('bolumler.txt','r',encoding='utf-8')
 deptsLines =depts.readlines()
 
-numberOfStudents=1000; #type the # of students you want 
+numberOfStudents=1000; #type the # of students youn want 
 
 f.write('{"students":[')    
 
