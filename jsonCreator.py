@@ -32,7 +32,7 @@ for i in range(numberOfStudents):
     f.write('\n\t"id": '+str(i+1)+',')
     f.write('\n\t"fname": "'+nameLines[random.randint(1,len(nameLines)-1)].replace('\n','').title()+'"'+',')
     f.write('\n\t"lname": "'+lastNameLines[random.randint(1,len(lastNameLines)-1)].replace('\n','').title()+'"'+',')
-    f.write('\n\t"num": "152120'+formatCustomDigit(random.randint(1,999999),6)+'",')
+    f.write('\n\t"num": "15212'+formatCustomDigit(random.randint(1,9999999),7)+'",')
     f.write('\n\t"dept": "'+deptsLines[random.randint(1,len(deptsLines)-1)].replace('\n','').title() +'",')
     f.write('\n\t"pob": "'+pobLines[random.randint(0,len(pobLines)-1)].replace('\n','').replace('\t','')+'",')
     f.write('\n\t"dob": "'+str(random.randint(1997,2001))+'-'+
