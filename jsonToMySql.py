@@ -14,9 +14,9 @@ mydb = mysql.connector.connect(
 )
 
 for elements in jsonDatabase['students']:
-  val=(elements['fname'],elements['lname'],str(elements['num']),elements['dept'],elements['pob'],str(elements['dob']))
+  values=(elements['fname'],elements['lname'],str(elements['num']),elements['dept'],elements['pob'],str(elements['dob']))
   mycursor = mydb.cursor()
-  mycursor.execute(sql %val)
+  mycursor.execute(sql %values)
   mydb.commit()
 
 
