@@ -10,16 +10,16 @@ def formatCustomDigit(number,digitNumberOfReturn):
     
     return "0"*(digitNumberOfReturn-counter)+str(holdNumber)
 
-names=open('isimler.txt','r',encoding='utf-8')
+names=open('attributes/isimler.txt','r',encoding='utf-8')
 nameLines=names.readlines()
 
-lastnames=open('soyisimler.txt','r',encoding='utf-8')
+lastnames=open('attributes/soyisimler.txt','r',encoding='utf-8')
 lastNameLines =lastnames.readlines()
 
-pob=open('sehirler.txt','r',encoding='utf-8')
+pob=open('attributes/sehirler.txt','r',encoding='utf-8')
 pobLines =pob.readlines()
 
-depts=open('bolumler.txt','r',encoding='utf-8')
+depts=open('attributes/bolumler.txt','r',encoding='utf-8')
 deptsLines =depts.readlines()
 
 numberOfStudents=1000; #type the # of students youn want 
