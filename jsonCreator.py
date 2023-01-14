@@ -10,8 +10,6 @@ def formatCustomDigit(number,digitNumberOfReturn):
     
     return "0"*(digitNumberOfReturn-counter)+str(holdNumber)
 
-f=open('data.json', 'w', encoding='utf-8')
-
 names=open('isimler.txt','r',encoding='utf-8')
 nameLines=names.readlines()
 
@@ -26,6 +24,7 @@ deptsLines =depts.readlines()
 
 numberOfStudents=1000; #type the # of students youn want 
 
+f=open('data.json', 'w', encoding='utf-8')
 f.write('{"students":[')    
 
 for i in range(numberOfStudents):
